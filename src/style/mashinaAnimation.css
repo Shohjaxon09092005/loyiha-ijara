@@ -1,0 +1,18 @@
+.mashina{
+    position: relative;
+    width: 1000px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+.ballon1{
+    position: absolute;
+    right: 750px;
+    bottom: -44px;
+    animation: fananim linear infinite;
+}
+.ballon2{
+    position: absolute;
+    right: 237px;
+    bottom: -42px;
+    animation: fananim linear infinite;
+}

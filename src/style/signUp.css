@@ -1,0 +1,15 @@
+
+
+.signUp .content__img{
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+.signUp .content_form input{
+    width: 100%;
+}
+.signUp .login .login_grid {
+    background-image: none;
+   
+
+}

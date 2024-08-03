@@ -1,0 +1,43 @@
+.ijara_wrapper form{
+    display: flex;
+    flex-direction:column;
+    gap: 20px;
+}
+.ijara{
+    margin-top: 60px;
+}
+.ijara_wrapper form label{
+    font-weight: 600;
+    font-size: 18px;
+    color: rgb(222, 42, 36);
+}
+.ijara h2{
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 40px;
+    color: brown;
+
+}
+.ijara_wrapper form input{
+    padding: 10px 0 10px 20px;
+    border: none;
+    background-color: rgb(164, 237, 191);
+    border-radius: 15px;
+}
+.ijara_wrapper form select{
+    padding: 10px 0 10px 20px;
+    border: none;
+    background-color: rgb(164, 237, 191);
+    border-radius: 15px;
+
+}
+.ijara button{
+    padding: 10px 10%;
+    border: none;
+    border-radius: 15px;
+    background-color: rgb(74, 154, 174);
+    color: white;
+    display: block;
+    margin: 0 auto;
+    margin-top: 40px;
+}
